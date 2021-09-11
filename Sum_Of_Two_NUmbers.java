@@ -15,6 +15,6 @@ Don't forget to return the result.
 public class SumOfTwoNumbers {
     public static int sum(int a, int b) {
       int sum = a + b;
-			return sum;
+      return sum;
     }
 }
